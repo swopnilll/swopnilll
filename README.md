@@ -63,6 +63,13 @@ I am an engineer who enjoys **building scalable systems** and **user interfaces*
 ![Swopnil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swopnilll&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 
+## ⚡️ Fun Fact About My GitHub
+You might notice that this GitHub account is relatively new compared to my journey in software engineering. That's because I first created my GitHub account using my **company email** while working at **Leapfrog Technology**. Now, at **Ozdocs Group of Companies**, we use **Bitbucket** for version control. 
+
+However, this profile is where I share all my **self-learning projects**, which I work on in my free time after my full-time **Masters studies** and professional work as a **Software Engineer**. These projects are a reflection of my passion for continuous learning and improving my craft. 🚀
+
+Every repo here is **self-initiated**, whether it's a new tech stack I'm experimenting with or a personal project I believe will challenge me. I'm always looking for opportunities to grow. 💻✨
+
 ---
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and projects. 🚀
