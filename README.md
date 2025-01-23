@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi there 👋, I'm **Swopnil Acharya**!
 
-<!--
-**swopnilll/swopnilll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer based in **Sydney, NSW, Australia**, passionate about building impactful solutions. I thrive in environments where I can explore problems deeply, understand the business needs, and deliver real-world business impact. I love learning new technologies and ensuring I understand the fundamentals before diving into frameworks and libraries. I work with technologies such as **MERN stack**, **Java Micronaut**, **AWS**, **.NET**, and **Docker**, and enjoy exploring the latest trends in **distributed systems** and **cloud computing**.
 
-Here are some ideas to get you started:
+## 🚀 Career Objective
+I am an engineer who enjoys **building scalable systems** and **user interfaces** that solve complex problems. I focus on gaining a deep understanding of the problem and business needs before jumping into the technical side, delivering solutions that have real impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+- **Core Skills**: Distributed Software Systems, User Interface and API Development.
+- **Tech Stack**: 
+  - **Frontend**: JavaScript, TypeScript, React, Redux, Next.js, CSS3, HTML5
+  - **Backend**: .NET, Java Micronaut, Node.js, REST APIs
+  - **Databases**: MSSQL, MongoDB, DynamoDB, Oracle
+  - **Cloud & DevOps**: AWS, Docker, CI/CD pipelines
+- **Tools & Methodologies**: Git, Jira, Webpack, Agile (Scrum), Firebase
+
+## 💼 Professional Experience
+
+### Software Engineer | **Ozdocs Group of Companies**, Sydney
+*March 2024 – Present*
+- Led the transformation of legacy ASP.NET Web Forms applications into microservices architecture using React and .NET.
+- Contributed to the Oil Commander SaaS platform, supporting 1.2M samples annually for 1,000+ users worldwide.
+- Developed REST APIs using C# and .NET, and developed services for background processing.
+- Tech Stack: **React** **JavaScript**, **C#**, **.NET**, **AWS**, **MSSQL**
+
+### Software Engineer | **Leapfrog Technology**, Seattle, WA
+*December 2021 – July 2023*
+- Designed complex UIs for enterprise drug discovery and finance applications.
+- Built scalable frontends with React, Redux, and Next.js, with a focus on performance optimizations.
+- Developed backend services using Java, Micronaut, and Hibernate for scalable APIs.
+- Deployed and containerized applications using Docker and AWS for continuous integration.
+- Tech Stack: **Java**, **Micronaut**, **React**, **Next.js**, **AWS**, **Docker**, ""Oracle""
+
+### Associate Software Engineer | **Leapfrog Technology**, Seattle, WA
+*December 2020 – December 2021*
+- Delivered pixel-perfect UI/UX with React and advanced CSS for drug discovery web apps.
+- Integrated authentication and authorization using Firebase and JWT.
+- Built configurable, reusable components for improved flexibility and scalability.
+- Tech Stack: **JavaScript**, **React**, **Node.js** **Firebase**, **NoSQL**, **HTML/CSS**
+
+## 🎓 Education
+
+- **Master of Information Technology** | Kings Own Institute (KOI), Sydney, NSW, Australia
+  *April 2024 – May 2025 (Ongoing)*
+- **Master of Information Technology** | University of Technology Sydney (UTS), Sydney, NSW, Australia
+  *June 2023 – April 2024 (Transferred after the first semester)*
+- **Bachelor of Engineering in Electronics and Communication** | NMIT, Bangalore, India
+  *June 2016 – May 2020*
+
+## 🌱 Currently Learning
+- Cloud Computing & DevOps
+- Advanced Microservices Architecture
+- Integrating LLM models with Web App (Langchain).
+
+## 📫 Contact Me
+- **Email**: [swopnilacharya@gmail.com](mailto:swopnilacharya@gmail.com)
+- **Phone**: 0434042041
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/swopnil-acharya/)
+- **GitHub**: [GitHub Profile](https://github.com/swopnilacharya)
+
+## 🛠️ GitHub Stats
+![Swopnil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swopnilll&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+
+---
+
+Thank you for visiting my GitHub profile! Feel free to explore my repositories and projects. 🚀
