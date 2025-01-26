@@ -30,12 +30,12 @@ I am an engineer who enjoys **building scalable systems** and **user interfaces*
 - Built scalable frontends with React, Redux, and Next.js, with a focus on performance optimizations.
 - Developed backend services using Java, Micronaut, and Hibernate for scalable APIs.
 - Deployed and containerized applications using Docker and AWS for continuous integration.
-- Tech Stack: **Java**, **Micronaut**, **React**, **Next.js**, **AWS**, **Docker**, ""Oracle""
+- Tech Stack: **Java**, **Micronaut**, **React**, **SQL**, ***Database Design, ***Next.js**, **AWS**, **Docker**, ""Oracle""
 
 ### Associate Software Engineer | **Leapfrog Technology**, Seattle, WA
 *December 2020 – December 2021*
 - Delivered pixel-perfect UI/UX with React and advanced CSS for drug discovery web apps.
-- Integrated authentication and authorization using Firebase and JWT.
+- Integrated authentication and authorization.
 - Built configurable, reusable components for improved flexibility and scalability.
 - Tech Stack: **JavaScript**, **React**, **Node.js** **Firebase**, **NoSQL**, **HTML/CSS**
 
@@ -50,7 +50,7 @@ I am an engineer who enjoys **building scalable systems** and **user interfaces*
 
 ## 🌱 Currently Learning
 - Cloud Computing & DevOps
-- Advanced Microservices Architecture
+- Microservices Architecture
 - Integrating LLM models with Web App (Langchain).
 
 ## 📫 Contact Me
