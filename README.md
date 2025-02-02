@@ -1,9 +1,9 @@
 # Hi there 👋, I'm **Swopnil Acharya**!
 
-I'm a Software Engineer based in **Sydney, NSW, Australia**, passionate about building impactful solutions. I thrive in environments where I can explore problems deeply, understand the business needs, and deliver real-world business impact. I love learning new technologies and ensuring I understand the fundamentals before diving into frameworks and libraries. I work with technologies such as **MERN stack**, **Java Micronaut**, **AWS**, **.NET**, and **Docker**, and enjoy exploring the latest trends in **distributed systems** and **cloud computing**.
+I'm a Software Engineer based in **Sydney, NSW, Australia**, and I am passionate about building impactful solutions. I thrive in environments where I can explore problems deeply, understand business needs, and deliver real-world business impact. I love learning new technologies and ensuring I know the fundamentals before diving into frameworks and libraries. I work with technologies such as **MERN stack**, **Java Micronaut**, **AWS**, **.NET**, and **Docker**, and enjoy exploring the latest trends in **distributed systems** and **cloud computing**.
 
 ## 🚀 Career Objective
-I am an engineer who enjoys **building scalable systems** and **user interfaces** that solve complex problems. I focus on gaining a deep understanding of the problem and business needs before jumping into the technical side, delivering solutions that have real impact.
+I am an engineer who enjoys **building scalable systems** and **user interfaces** that solve complex problems. I focus on gaining a deep understanding of the problem and business needs before jumping into the technical side, delivering solutions that have a real impact.
 
 ## 🛠️ Technical Skills
 
@@ -20,8 +20,9 @@ I am an engineer who enjoys **building scalable systems** and **user interfaces*
 ### Software Engineer | **Ozdocs Group of Companies**, Sydney
 *March 2024 – Present*
 - Led the transformation of legacy ASP.NET Web Forms applications into microservices architecture using React and .NET.
-- Contributed to the Oil Commander SaaS platform, supporting 1.2M samples annually for 1,000+ users worldwide.
+- Contributed to the Oil Commander SaaS platform, supporting 1.2M samples annually for 10,000+ users worldwide.
 - Developed REST APIs using C# and .NET, and developed services for background processing.
+- Deployed and containerized applications using Docker and AWS for continuous integration.
 - Tech Stack: **React** **JavaScript**, **C#**, **.NET**, **AWS**, **MSSQL**
 
 ### Software Engineer | **Leapfrog Technology**, Seattle, WA
@@ -29,13 +30,11 @@ I am an engineer who enjoys **building scalable systems** and **user interfaces*
 - Designed complex UIs for enterprise drug discovery and finance applications.
 - Built scalable frontends with React, Redux, and Next.js, with a focus on performance optimizations.
 - Developed backend services using Java, Micronaut, and Hibernate for scalable APIs.
-- Deployed and containerized applications using Docker and AWS for continuous integration.
 - Tech Stack: **Java**, **Micronaut**, **React**, **SQL**, ***Database Design, ***Next.js**, **AWS**, **Docker**, ""Oracle""
 
 ### Associate Software Engineer | **Leapfrog Technology**, Seattle, WA
 *December 2020 – December 2021*
 - Delivered pixel-perfect UI/UX with React and advanced CSS for drug discovery web apps.
-- Integrated authentication and authorization.
 - Built configurable, reusable components for improved flexibility and scalability.
 - Tech Stack: **JavaScript**, **React**, **Node.js** **Firebase**, **NoSQL**, **HTML/CSS**
 
@@ -51,7 +50,7 @@ I am an engineer who enjoys **building scalable systems** and **user interfaces*
 ## 🌱 Currently Learning
 - Cloud Computing & DevOps
 - Microservices Architecture
-- Integrating LLM models with Web App (Langchain).
+- Integrating ML models with Web App (Development + Cloud Infra)
 
 ## 📫 Contact Me
 - **Email**: [swopnilacharya@gmail.com](mailto:swopnilacharya@gmail.com)
