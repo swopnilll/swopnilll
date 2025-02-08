@@ -18,7 +18,7 @@ I am an engineer who enjoys **building scalable systems** and **user interfaces*
 ## 💼 Professional Experience
 
 ### Software Engineer | **Ozdocs Group of Companies**, Sydney
-*March 2024 – Present*
+*Feb 2024 – Present*
 - Led the transformation of legacy ASP.NET Web Forms applications into microservices architecture using React and .NET.
 - Contributed to the Oil Commander SaaS platform, supporting 1.2M samples annually for 10,000+ users worldwide.
 - Developed REST APIs using C# and .NET, and developed services for background processing.
