@@ -44,13 +44,13 @@ I design and build scalable, cloud-native web applications that integrate modern
 - Contributed to the Oil Commander SaaS platform, supporting over 10,000 users worldwide with millions of data.
 - Developed REST APIs and background processing services, containerizing applications with Docker on AWS.
 
-### Software Engineer | **Leapfrog Technology**, Seattle, WA  
+### Software Engineer | **Leapfrog Technology**
 *December 2021 – July 2023*  
 - Engineered complex UIs for enterprise drug discovery and finance applications using React, Redux, and Next.js.
 - Built scalable backend services with Java, Micronaut, and Hibernate.
 - Focused on performance optimization and robust API development.
 
-### Associate Software Engineer | **Leapfrog Technology**, Seattle, WA  
+### Associate Software Engineer | **Leapfrog Technology**
 *December 2020 – December 2021*  
 - Delivered pixel-perfect UI/UX designs with React and advanced CSS.
 - Created configurable, reusable components for enhanced scalability and maintainability.
