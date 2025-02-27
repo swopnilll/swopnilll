@@ -39,9 +39,9 @@ I design and build scalable, cloud-native web applications that integrate modern
 ## 💼 Professional Experience
 
 ### Software Engineer | **Ozdocs Group of Companies**, Sydney  
-*March 2024 – Present*  
+*March 2024 – March 2025*  
 - Transformed legacy ASP.NET Web Forms applications into a microservices architecture with React and .NET.
-- Contributed to the Oil Commander SaaS platform, supporting over 10,000 users worldwide.
+- Contributed to the Oil Commander SaaS platform, supporting over 10,000 users worldwide with millions of data.
 - Developed REST APIs and background processing services, containerizing applications with Docker on AWS.
 
 ### Software Engineer | **Leapfrog Technology**, Seattle, WA  
@@ -84,8 +84,6 @@ I’m actively looking for a full-stack development role that challenges me to:
 3. **Architect scalable infrastructure** for cutting-edge projects.
 4. **Collaborate** with dynamic teams on high-impact projects.
 
-> **Note:** I am currently serving my notice period and will be available to start new roles in **March 2025**.
-
 ---
 
 ## 📫 Let's Connect
@@ -104,9 +102,7 @@ I’m actively looking for a full-stack development role that challenges me to:
 ---
 
 ## ⚡️ Fun Fact About My GitHub
-You might notice that this GitHub account is relatively new compared to my journey in software engineering. That's because I first created my GitHub account using my **company email** while working at **Leapfrog Technology**. Now, at **Ozdocs Group of Companies**, we use **Bitbucket** for version control. 
-
-However, this profile is where I share all my **self-learning projects**, which I work on in my free time after my full-time **Masters studies** and professional work as a **Software Engineer**. These projects are a reflection of my passion for continuous learning and improving my craft. 🚀
+This profile is where I share all my **self-learning projects**, which I work on in my free time after my full-time **Masters studies** and professional work as a **Software Engineer**. These projects are a reflection of my passion for continuous learning and improving my craft. 🚀
 
 Every repo here is **self-initiated**, whether it's a new tech stack I'm experimenting with or a personal project I believe will challenge me. I'm always looking for opportunities to grow. 💻✨
 
