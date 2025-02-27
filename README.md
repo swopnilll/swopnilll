@@ -1,21 +1,17 @@
+## 🚀 About Me
+
 # Hi there, I'm Swopnil Acharya 👋
 
 **Full-Stack Developer | AI/ML Integrator | Cloud-Native Solutions Builder**  
-Based in Sydney, NSW, Australia
+**Based in Sydney, NSW, Australia**
 
 I design and build scalable, cloud-native web applications that integrate modern frameworks with AI/ML capabilities to solve complex business challenges. I thrive on deeply understanding the business problem before crafting innovative technical solutions.
-
----
-
-## 🚀 About Me
 
 - **Core Philosophy:**  
   - *I fear nothing.*  
   - *Adaptability is my strength; I can learn anything, anytime.*
 - I’m passionate about continuous learning and exploring emerging technologies in distributed systems, cloud computing, and AI/ML integration.
 - I deliver impactful solutions by bridging the gap between business needs and cutting-edge technology.
-
----
 
 ## 🛠️ Technical Expertise
 
@@ -38,24 +34,15 @@ I design and build scalable, cloud-native web applications that integrate modern
 
 ## 💼 Professional Experience
 
-### Software Engineer | **Ozdocs Group of Companies**, Sydney  
+### Software Engineer | **Ozdocs Group of Companies**, Sydney  (Part time)
 *March 2024 – March 2025*  
-- Transformed legacy ASP.NET Web Forms applications into a microservices architecture with React and .NET.
-- Contributed to the Oil Commander SaaS platform, supporting over 10,000 users worldwide with millions of data.
-- Developed REST APIs and background processing services, containerizing applications with Docker on AWS.
 
-### Software Engineer | **Leapfrog Technology**
+### Software Engineer | **Leapfrog Technology** (Full Time)
 *December 2021 – July 2023*  
-- Engineered complex UIs for enterprise drug discovery and finance applications using React, Redux, and Next.js.
-- Built scalable backend services with Java, Micronaut, and Hibernate.
-- Focused on performance optimization and robust API development.
 
-### Associate Software Engineer | **Leapfrog Technology**
+### Associate Software Engineer | **Leapfrog Technology** (Full Time)
 *December 2020 – December 2021*  
-- Delivered pixel-perfect UI/UX designs with React and advanced CSS.
-- Created configurable, reusable components for enhanced scalability and maintainability.
 
----
 
 ## 🎓 Education
 
