@@ -20,7 +20,7 @@ I design and build scalable, cloud-native web applications that integrate modern
 - **Focus:** Responsive & scalable web applications with pixel-perfect UI/UX
 
 ### Backend
-- **Technologies:** Node.js, Express, Nest, .NET, Java, C#, RESTful APIs, Microservices  
+- **Technologies:** Node.js, Express, Nest, .NET, Java (Micronaut), RESTful APIs, Microservices  
 - **Focus:** Robust API design and scalable server architectures
 
 ### Cloud & DevOps
