@@ -1,5 +1,3 @@
-## 🚀 About Me
-
 # Hi there, I'm Swopnil Acharya 👋
 
 **Full-Stack Developer**  
@@ -24,19 +22,16 @@ I design and build scalable, cloud-native web applications that integrate modern
 ### AI/ML Integration
 - **Experience:** Embedding LLMs & ML models into web applications to create intelligent, data-driven features
 
----
-
 ## 💼 Professional Experience
 
-### Software Engineer | **Ozdocs Group of Companies**, Sydney  (Part time)
+### Software Engineer | **8Seats**, Sydney
+*March 2025 - Present*  
+
+### Software Engineer | **Ozdocs Group of Companies**, Sydney  
 *March 2024 – Feb 2025*  
 
-### Software Engineer | **Leapfrog Technology** (Full Time)
-*December 2021 – July 2023*  
-
-### Associate Software Engineer | **Leapfrog Technology** (Full Time)
-*December 2020 – December 2021*  
-
+### Software Engineer | **Leapfrog Technology** 
+*December 2020 – July 2023*  
 
 ## 📫 Let's Connect
 
@@ -45,11 +40,5 @@ I design and build scalable, cloud-native web applications that integrate modern
 - **LinkedIn:** [Swopnil Acharya](https://www.linkedin.com/in/swopnil-acharya/)
 - **GitHub:** [github.com/swopnilll](https://github.com/swopnilll)
 
----
-
 ## 🛠️ GitHub Stats
 ![Swopnil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swopnilll&show_icons=true&count_private=true&hide=prs&theme=radical)
-
-
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and projects. 🚀
-
