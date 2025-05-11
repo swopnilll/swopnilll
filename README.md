@@ -12,3 +12,24 @@
 
 ## 🛠️ GitHub Stats
 ![Swopnil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swopnilll&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+## 🛠️ Top Language Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swopnilll&layout=compact&theme=radical)
+
+
+## 🚀 Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?logo=react-query&logoColor=white)
+![XState](https://img.shields.io/badge/-XState-2E2E2E?logo=xstate&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Lit](https://img.shields.io/badge/-Lit-324FFF?logo=lit&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
