@@ -29,6 +29,7 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Micronaut](https://img.shields.io/badge/-Micronaut-1B1F23?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yNTYsMEExNzYsMTc2LDAsMCwwLDgwLDE3NkMwLDM1MiwxNzYsNTEyLDI1Niw1MTJBMTc2LDE3NiwwLDAsMCw0MzIsMzM2QzUxMiwxNzYsMzM2LDAuMDIsMjU2LDBaIiBmaWxsPSIjZmZmIi8+PC9zdmc+)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
