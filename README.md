@@ -1,54 +1,41 @@
-# Hi, I'm Swopnil 
+<!-- GitHub profile README · github.com/swopnilll -->
 
-**Full-Stack Software Engineer · Perth, WA 🇦🇺**
+<p align="center">
+  <img width="100%" alt="Swopnil Acharya — Product Engineer | Solution Architect"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;height=185&amp;color=0:0F172A,55:155E75,100:0284C7&amp;text=Swopnil%20Acharya&amp;fontColor=FFFFFF&amp;fontSize=42&amp;fontAlignY=38&amp;desc=Product%20Engineer%20%7C%20Solution%20Architecture&amp;descSize=17&amp;descAlignY=60&amp;animation=fadeIn" />
+</p>
 
-I'm a full-stack engineer who's worked across food-tech, messaging platforms, mining, and drug discovery. I care about understanding the business domain — not just shipping features.
+<p align="center">
+  <img alt="Understand the problem. Design the solution. Build the product."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=17&amp;pause=1300&amp;color=0284C7&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=42&amp;lines=Understand+the+problem.+Design+the+solution.;Build+the+product.+Own+the+outcome." />
+</p>
 
-📬 [swopnilacharya@gmail.com](mailto:swopnilacharya@gmail.com) · [LinkedIn](https://www.linkedin.com/in/swopnil-acharya/) · [swopnilacharya.com.np](https://www.swopnilacharya.com.np/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/swopnilll/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+  <a href="https://www.swopnilacharya.com.np/"><img alt="Website" src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" /></a>
+  <a href="mailto:swopnilacharya@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-334155?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+</p>
 
----
+<p align="center"><b>📍 Perth, Australia 🇦🇺</b></p>
 
-## 🛠️ Tech Stack
+I'm a **product-minded engineer** who connects **business problems → system design → working software**. I care about *what we're building, why it matters, and how it holds up in production*.
 
-### Current
+### ⚡ Products I've Helped Build
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Phoenix LiveView](https://img.shields.io/badge/Phoenix_LiveView-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+- 🍱 **Foody Bag** · Food marketplace · Payments, reliability & AWS · **60k users**
+- 💬 **8seats** · Team messaging · Real-time systems with Elixir & WebSockets
+- ⛏️ **Oil Commander** · Mining technology · Enterprise workflows & cloud modernisation
+- 🧬 **Nurix Therapeutics** · Drug discovery · Secure, data-intensive scientific software
 
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
-![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white)
+### 🧰 Tech I Work With
 
-**APIs & Protocols**
-![REST](https://img.shields.io/badge/REST-005C84?style=flat-square&logo=fastapi&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
+<p align="center">
+  <img alt="TypeScript, React, Next.js, Node.js, NestJS, Elixir, PostgreSQL, MongoDB, AWS, Docker, Terraform, GitHub Actions"
+    src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,elixir,postgres,mongodb,aws,docker,terraform,githubactions&amp;perline=12" />
+</p>
 
-**Data & Cloud**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<p align="center"><b>Currently exploring:</b> AI-powered product discovery · Solution architecture · Building businesses</p>
 
----
-
-### Previous Experience
-
-| Stack | Duration |
-|---|---|
-| .NET / C# / MSSQL | ~1 year |
-| Java / Micronaut | ~1 year |
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=swopnilll&label=Profile%20views&color=0e75b6&style=flat)
-
-</div>
+<p align="center">
+  <img alt="GitHub profile views" src="https://komarev.com/ghpvc/?username=swopnilll&amp;label=Profile%20views&amp;color=0284C7&amp;style=flat-square" />
+</p>
