@@ -2,7 +2,7 @@
 
 <p align="center">
   <img width="100%" alt="Swopnil Acharya — Product Engineer | Solution Architect"
-    src="https://capsule-render.vercel.app/api?type=waving&amp;height=185&amp;color=0:0F172A,55:155E75,100:0284C7&amp;text=Swopnil%20Acharya&amp;fontColor=FFFFFF&amp;fontSize=42&amp;fontAlignY=38&amp;desc=Product%20Engineer%20%7C%20Solution%20Architecture&amp;descSize=17&amp;descAlignY=60&amp;animation=fadeIn" />
+    src="https://capsule-render.vercel.app/api?type=waving&amp;height=185&amp;color=0:0F172A,55:155E75,100:0284C7&amp;text=Swopnil%20Acharya&amp;fontColor=FFFFFF&amp;fontSize=42&amp;fontAlignY=38&amp;desc=Product%20Engineer%20%7C%20Solution%20Architect&amp;descSize=17&amp;descAlignY=60&amp;animation=fadeIn" />
 </p>
 
 <p align="center">
